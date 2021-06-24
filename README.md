@@ -1,3 +1,3 @@
-# Staj Projesi VB.NET
+# VB.NET-Renault R&D Part Library
 
-Uzun dönem yaz stajında, Renault Ar-Ge mühendisleri için yapılan VB.NET projesi. Proje, 3 boyutlu parça kütüphanesi ile CATIA CAD programı arasında entegrasyon sağlıyor.
+Software for R&D engineers consisting of 22,000 lines of code. The software was used to integrate the 3D CAD drawings to the CATIA software. 100+ distinct parts were integrated into the software.
